@@ -1,13 +1,6 @@
 # Responsive Boilerplate
 
-> Description
-
 ## How to install
-
-Prerequisites:
-* [Node.js](http://nodejs.org/) >=0.10.0
-* [Gulp.js](http://gulpjs.com/) >=3.8.0 
-
 
 Installation process:
 1. Clone this repository
