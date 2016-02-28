@@ -1,4 +1,6 @@
-# Responsive Boilerplate
+# Responsive Boilerplate Based on TutsPlus Tutorial
+
+> [http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919) 
 
 ## How to install
 
